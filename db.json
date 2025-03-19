@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Maria Cedersten",
+      "number": "0401234567",
+      "id": "1"
+    },
+    {
+      "name": "Teemu Berglind",
+      "number": "3944532352",
+      "id": "2"
+    },
+    {
+      "name": "Mira Sidorova",
+      "number": "1243234345",
+      "id": "3"
+    },
+    {
+      "name": "Tatiana Meyer",
+      "number": "3923642312",
+      "id": "4"
+    }
+  ]
+}
